@@ -25,7 +25,7 @@ This is a **Simple Calculator** application built using **Java**. It performs ba
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/SimpleCalculator.git
+   git clone https://github.com/romit581/SimpleCalculator.git
    ```
 2. Open the project in your preferred Java IDE.
 3. Compile and run the `Calculator.java` file.
